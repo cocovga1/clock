@@ -16,7 +16,7 @@ def update_clock():
 
 root = tk.Tk()
 
-root.title('Simple Clock')
+root.title('Clock')
 
 
 # Create a label to display the time
